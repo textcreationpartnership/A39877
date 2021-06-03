@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the King and both Houses of Parliament being a declaration of the present suffering and imprisonment of above 600 of the people of God, in scorn called Quakers, who now suffer in England for conscience sake ... together with a particular relation of some of the late inhumane cruelties inflicted on some of the aforesaid people ...</title>
+         </titleStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39877</idno><idno type="EEBO-CITATION">15360258</idno>
+  <idno type="VID">103496</idno>
+  <idno type="EEBO-PROQUEST">2248503281</idno>
+  
+            <idno type="STC">Wing F1432</idno>
+            <idno type="STC">ESTC R35540</idno>
+            <idno type="OCLC">15360258</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A39877)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103496)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1188:6 or 2115:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the King and both Houses of Parliament being a declaration of the present suffering and imprisonment of above 600 of the people of God, in scorn called Quakers, who now suffer in England for conscience sake ... together with a particular relation of some of the late inhumane cruelties inflicted on some of the aforesaid people ...</title>
+               </titleStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Item at 2115:5 is cropped at top, with loss of first two words; Wing number T1489aA was created for the cropped piece, but the item is identical to F1432.</note>
+                  <note>Reproduction of originals in the Union Theological Seminary Library, New York and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Apologetic works.</term>
+               <term type="topical_term">Persecution --  England.</term>
+               <term type="topical_term">Liberty of conscience --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103496:1"/>
+            <p>FOR THE KING And both Houses of PARLIAMENT: Being A Declaration of the present Suffering and Imprisonment of above 600. of the people of God, in scorn called Quakers, who now suffer in <hi>England</hi> for Conscience sake. Together with the Cause of their Imprisonment, and num<g ref="char:EOLhyphen"/>ber of the Sufferers in each County.</p>
+            <p>Also a brief Account of some part of the Havock and Spoil that hath of late been made on their Persons and Estates, for several Causes herein mentioned.</p>
+            <p>Together with a particular Relation of some of the late Inhumane Cruelties inflicted on some of the a<g ref="char:EOLhyphen"/>foresaid People, at their several Meetings and Assemblings to<g ref="char:EOLhyphen"/>gether to wait upon the Lord: And also of the hard Usage they undergo in several Goals by unreasonable Men, which has ex<g ref="char:EOLhyphen"/>tended to the taking away of the innocent Lives of several of them within a few Moneths last past.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1664.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:103496:2"/>
+            <pb n="3" facs="tcp:103496:2"/>
+            <head>To all that be in Power and Authority.</head>
+            <p>
+               <hi>First.</hi> THere is nothing that our friends do in Rebellion to the Kings person, or in Rebellion to any mans per<g ref="char:EOLhyphen"/>son. Notwithstanding we do suffer because we cannot pay Tythes; which have been set up since the Apostles dayes, and not by the Apostles nor Christ, who ended the first priest-hood that took Tythes, and the Commandment that gave them: and the Law by which the Priest-hood was made that took them: as witness to this the Apostle to the <hi>Hebrewes</hi> 7 Chap. So they that have set up Tythes since the Apostles dayes, are from their Spi<g ref="char:EOLhyphen"/>rit, Doctrine and fellowship apostatized. For the Apostles had no fellowship with such as took Tythes in their days but witnessed the end of them. Neither with such as are set up since, hat are Aposta<g ref="char:EOLhyphen"/>tized from them, neither have such now that be in the Apostles Spirit fellowship with them: who said all things should be done in bounty and love, and not by compulsion nor force.</p>
+            <p>
+               <hi>Secondly.</hi> We have suffered, because we cannot pay Clarks wages that turnes the hour-glass, and Rings the Bell, and sayes <hi>Amen</hi> to the priest's prayers which persecutes people for maintenance. Which pra<g ref="char:EOLhyphen"/>ctice and thing, they have no example from Christ nor the Apo<g ref="char:EOLhyphen"/>stles: Therefore in Conscience towards God we cannot hold them up, which is not in Rebellion to any mans person that this is done by us.</p>
+            <p>
+               <hi>Thirdly,</hi> We suffer because we do not go to the Steeple-houses (which formerly were the Papists old Mass-houses) not in rebellion to any mans person, but for conscience sake, because their practice is such, and their worship which we do not finde recorded in the Scriptures to have been among the Apostles or Christ, nor have they any Command from them.</p>
+            <p>
+               <hi>Fourthly,</hi> And we suffer because we set open our Shops on Fast days, and those which are called Holy-days (by the Papists) and eat Meats in the time they call Lent; and those days which are set apart in the week to eat fish on: Now for conscience sake we cannot ob<g ref="char:EOLhyphen"/>serve these things (which is not Rebellion against any mans person) because we cannot finde these things Recorded, that ever the Apo<g ref="char:EOLhyphen"/>stles did set forth, or Christ to be practiced. But on the contrary, they said, <hi>They were not to judge one another about such things as meats, and</hi>
+               <pb n="4" facs="tcp:103496:3"/>
+               <hi>drinks and times;</hi> and said, <hi>The Kingdom of God stood not in such things, but in righteousness, peace and joy in the holy Ghost, nor the worship of God, but in the spirit and in the truth, which is everlasting.</hi>
+            </p>
+            <p>And the <hi>Ninivites</hi> when they fasted they put on Sack-cloth, and fasted man and beast; but these we see go in their old habits, their garments not changed: so not like unto the Heathen (but short of of them) But Christ saith, <hi>When thou fasteth annoynt thy head, and wash thy face that thou mayst not appear unto men to fast,</hi> (which fast we own) but such fasts as appears to men is like unto the Jews, Scribes and Pharisees, and like unto the Heathen. And the scripture saith, <hi>Six days thou shalt labour,</hi> &amp;c. and the Apostle saith, <hi>Meat for the belly, and the belly for meats, but God shall destroy both them and it.</hi> And so neither Christ nor the Apostles did set out commands that men should ab<g ref="char:EOLhyphen"/>stain from flesh one day, and eat it another day or time, and fish ano<g ref="char:EOLhyphen"/>ther day or time, but brought people off from such things: So what we do is in obedience to God, and for conscience sake, and not in Rebellion against any mans person.</p>
+            <p>
+               <hi>Fifthly,</hi> And because we say Thee and Thou to a particular, or one single person, which is according to the Accidence, Grammer, and Bible: therefore do we suffer, which is for conscience sake alone, and not in contempt, or Rebellion against any mans person.</p>
+            <p>
+               <hi>Six<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hly,</hi> And also we suffer, and have suffered much, because we do not put off our hats, or Courtesie, or scrape with the foot (which is an honour below, and not the honour which cometh from God a<g ref="char:EOLhyphen"/>bove) and call men Masters and Lords, and give them flattering ti<g ref="char:EOLhyphen"/>tles, and admire their persons, <hi>&amp;c.</hi> Now though the Apostle said <hi>Honour all men, and have all men in esteem;</hi> Yet he did not say Master <hi>Timothy,</hi> nor Master <hi>John,</hi> &amp;c. nor Lord <hi>Timothy,</hi> nor Lord <hi>Titus,</hi> nor give them such titles (though they were Bishops) But we have all men in esteem, which is to honour all men, and so not to do any vi<g ref="char:EOLhyphen"/>olence to them, nor to do hurt to any mans person our selves, nor would we have others to do so. And this practice of ours is not in Rebellion to any mans person.</p>
+            <p>
+               <hi>Seventhly,</hi> We have suffered because we have not followed the National worship, but worship God in the Spirit, and in the Truth, as Christ hath commanded us, as it is recorded in the Scripture; nei<g ref="char:EOLhyphen"/>ther is this Rebellion against any mans person, or to be accounted so.</p>
+            <p>
+               <hi>Eighthly,</hi> And because we do not follow the worlds fellowships (do we suffer) but our fellowship is in the Gospel, which is the pow<g ref="char:EOLhyphen"/>er of God, which was before the worlds fellowships were. And
+<pb n="5" facs="tcp:103496:3"/> therefore are we, and have been, much persecuted, afflicted and im<g ref="char:EOLhyphen"/>prisoned, thy such as have got up, and set up these things since the Apostles days, and the days of Christ in the flesh; which from Christ nor the Apostles have they any such command or example; and there<g ref="char:EOLhyphen"/>fore we do it in tenderness of conscience towards God, and not in Rebellion to or against any mans person.</p>
+            <p>
+               <hi>Ninthly,</hi> And because we cannot sign <hi>Davids</hi> Psalmes turned into Meeter with the world, nor Repair the Steeple houses, (therefore do we suffer) though we do not read that the Apostles did pay to<g ref="char:EOLhyphen"/>wards the Repairing of the Jews Temple (which God had command<g ref="char:EOLhyphen"/>ed to be built) after they were converted from them, nor the Syna<g ref="char:EOLhyphen"/>gogues of the Heathen. But they met in several houses, as we do now, and therefore they suffered as we do now, though it was not in Rebellion to any mans person. And we do not read that the Apo<g ref="char:EOLhyphen"/>stles did take <hi>Davids</hi> Psalms in meeter, and give them to the Saints to sing them; but bid them pray in the Spirit, and worship in the Spi<g ref="char:EOLhyphen"/>rit: And therefore we do it for conscience sake, and tenderness to the glory of God.</p>
+            <p>
+               <hi>Tenthly,</hi> We suffer and have suffered much because we speak in the Synagogues and Temples, or Steeple-houses, as we are commanded and moved of the Lord God, and sometimes moved to go as signes amongst them, which was the practice of the Prophets of old, and the Apostles in the primitive times, which much offended the Jewes and others that held them: up, who limitted the Holy One, and quenched the spirit: So now we that walk in the practice of the Apo<g ref="char:EOLhyphen"/>stles, and follows the leadings of the Spirit of God do suffer now. And the Apostle said, <hi>Quench not the Spirit, and despise not prophesying: and ye may all prophesie one by one,</hi> which was order then amongst the Apostles and Saints; but is now called disorder amongst them that be not in the life, and power, and spirit, and practice, which the Apo<g ref="char:EOLhyphen"/>stles were in: who were not in Rebellion against any mans person.</p>
+            <p>
+               <hi>Eleventhly,</hi> And because we cannot Swear and take an Oath, there<g ref="char:EOLhyphen"/>fore have we suffered much, by such as are gotten up since Christ and the Apostles days, and from their life Apostatized: though in all our Communication our Yea is yea, and Nay, nay, according to Christs Doctrine, who commanded us not to swear at all, but in all our Communication to keep to yea, and nay, <hi>for whatsoever is more then this cometh of evil,</hi> Mat. 5. And Apostle <hi>James</hi> in the 5. Chapter saith, <hi>Swear not at all least ye fall into condemnation of the Devil, but let your yea be yea,</hi> &amp;c. And this was Christs Doctrine, and the Apostles
+<pb n="6" facs="tcp:103496:4"/> in the primitive times, when the foundation was first laid. But these that have apostatized both from them and their Doctrine, have we suffered by, and do suffer now, because we cannot swear and take an Oath, and so go into evil and condemnation, though our Yea and Nay is offered to them according to Christ and the Apostles, and if we break our Yea and Nay, we are willing to suffer as much as they that break their Oath. Here you may see it was the Doctrine of the Apostlo (who was a minister of Christ) to the Christians, the Bre<g ref="char:EOLhyphen"/>thren in the primitive times, that they should not take an Oath, nor swear an Oath, according to Christ his Masters Doctrine which he had formerly taught him, <hi>Mat.</hi> 5. Now such Ministers who have Apostatized from Christs Doctrine and the Apostles, and their life and practice, hath taught to Swear, and to force Oaths upon us, which we for conscience sake towards God, and the Doctrine of Christ and the Apostle, cannot swear: For Christ ended the true Oath in the time of the law and first Covenant, and <hi>Abraham,</hi> and fulfilled them, and judged the false swearers. And he it is who is be<g ref="char:EOLhyphen"/>come our teacher, and Prophet (who saith, <hi>Swear not at all)</hi> whom God hath raised up like unto <hi>Moses,</hi> according to his promise, who in all things should be heard. Therefore for obeying his Commands have we suffered, Though it is not in Rebellion to the King or any mans person; but in obedience to Christ and his Doctrine, whom God now speaks to us by, according to <hi>Hebrew</hi> 1 Chapt. who is the heir of all things, and upholds all things by his word and power.</p>
+            <p>
+               <hi>Twelfthly.</hi> We suffer because we meet together to worship God, in severall houses, or Fields, or Barnes, or in our hired houses, this was the practice of the Apostles and Christ in the primitive times be<g ref="char:EOLhyphen"/>fore the Apostacy: And Christ, and the Apostles owned, and allow<g ref="char:EOLhyphen"/>ed of such meetings. But such as have Apostatized from their life have we suffered by for following of their practice. For <hi>Paul</hi> the A<g ref="char:EOLhyphen"/>postle had his meeting in his hired house at <hi>Rome</hi> where the seat of the Emperour was.</p>
+            <p>
+               <hi>Thirteenthly.</hi> And again we suffer because we deny all Games, Plays, Sports, vain Showes, Excess in drinking and eating, costly Apparel with Gold and Silver and Pearles, and Powdering the hair, and have no fellowship with those that act such things: Because for these pra<g ref="char:EOLhyphen"/>ctices we find no record, nor example among the Apostles in the pri<g ref="char:EOLhyphen"/>mitive times: but among such as be out of their life and doctrine, therefore we are became as fools to them and among them, because for conscience sake we can have no fellowship with them in those
+<pb n="7" facs="tcp:103496:4"/> things; but with that which is civility.</p>
+            <p>
+               <hi>Fourteenthly</hi> and <hi>Lastly.</hi> Because many women speak abroad, as they are moved by the spirit of God, which is according to the practice in the Apostles days, where it is spoken that woman laboured in the Go<g ref="char:EOLhyphen"/>spel, and Virgins that were <hi>Prophetesses.</hi> And the Lord said he would power out of his Spirit upon all flesh in the latter days, and his sons and daughters should prophecy. And therefore they that are Aposta<g ref="char:EOLhyphen"/>tized from the Apostles Spirit, practice doctrine and tolleration, are grieved at such women as have the Lords Spirit poured upon them, and have the testimony of Jesus, the spirit of prophecy, they are grie<g ref="char:EOLhyphen"/>ved at their practice and speaking. Which the Apostles were not nor Christ, they were not grieved, at <hi>Prescilla,</hi> nor <hi>Phebe,</hi> nor at the women that laboured in the Gospel: Nor at the four Virgins that prophecyed; nor at <hi>Hannah</hi> the <hi>Prophetesse:</hi> And <hi>Moses</hi> was not grieved at <hi>Aarons</hi> sister <hi>Merrian</hi> the <hi>Prophetesse,</hi> nor at <hi>Huldah</hi> the <hi>Prophetesse,</hi> and <hi>Deborah.</hi> The Jewes were not grieved at such holy women who obtained a good report that were guided by the Spirit of God. There<g ref="char:EOLhyphen"/>fore consider what they are guided by who are grieved now at this, and read the Scripture over again.</p>
+            <div type="part">
+               <head>Essex, in Prison there, 24.</head>
+               <p>Eight committed because for conscience sake, they could not pay Tythes, one of them hath been in ever since the <hi>9th. Month,</hi> 1657, which is six years and upwards, and the rest have been in some 3 years some more, and some less.</p>
+               <p>Three others arrested but not as yet brought to prison.</p>
+               <p>
+                  <hi>Fifteen</hi> committed to the <hi>Moothall</hi> prison for meeting together to wait upon the Lord, one committed for teaching scholars without a Licence.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>A particular of some of the late cruel inhumane dealings of the Souldiers with the aforesaid people for meeting together to wait upon the Lord at</hi> Colchester.</head>
+               <p>THe <hi>5th</hi> day of the <hi>10th.</hi> Moneth, 1663. There came into this town of <hi>Colchester</hi> a Troop of horse, said to be Collonel <hi>Oneals</hi> Troop, commanded by one <hi>William Basset</hi> Captain; And the day after they came, (being the first day of the week) there
+<pb n="8" facs="tcp:103496:5"/> came about 40 horsemen (all in their armor, as when men go into the field to fight an Army) with swords drawn to the meeting of us the people called <hi>Quakers;</hi> who were assembled that day in the fear of the Lord, to wait vpon him according to the example of the holy men of God, Recorded in the Scriptures of truth: but it being late in the day before they came, divers of our friends were past away, those who were remaining, they came up to in a feirce manner, and said, what a devill do yee here, so fell on, and with their swords and Carbines, did beat and bruise friends, women as well as men, both old and young, and then they past away driving friends to and fro in the streets, beat<g ref="char:EOLhyphen"/>ing them.</p>
+               <p>The first day following being the 13 day instant, about 40 horse<g ref="char:EOLhyphen"/>men (in like manner as before) came riding in amongst friends, some with drawn swords, and others with great Cudgels and Carbines, did exceedingly beat and bruise friends, knocking down some of them to the ground, so that they lay as dead men, some of them leaving their blood on the place, so that divers of our dear friends were not able to help themselves, and divers of them severall dayes after, was so sore with the blowes, that they could not work, or hardly help themselves with their food to their mouthes, and when they had exe<g ref="char:EOLhyphen"/>cuted their furie as before, Riding about the town, 4 of them met with a poor sickly man, about a quarter of a mile from the meeting place, and Riding up to him, said, are you a <hi>Quaker,</hi> so fell on, and beat the poor man in such a manner, that divers that beheld it, feared that he had been kil'd on the place: and in all likelyhood he had been there kil'd, had he not by some means, bin had into a house there by, out of their hands: and other friends that day were beat as they past in the street very much, to the indangering of their Lives and Limbs, and whither they will all recover again, at this time we know not.</p>
+               <p>On the <hi>4th</hi> day of the same week, there came a party of horsemen to the meeting place prety soon, so that not many friends were come together, but those men-friends that were there, they did as before exceedingly beat with their swords, and lighting off their horses, did follow some of them into houses, and inner-yards, where they did beat them very much: and on the <hi>27th</hi> day of the <hi>10th Month,</hi> they set certain centinels on horseback and some on foot to guard the wayes where friends should be driven away, and then came 38 armed men on horseback Riding upon friends in a very desperate sort, and being come did with their Clubs and Carbines say on in such a manner as moved the standers by to great compassion and many teares, at which
+<pb n="9" facs="tcp:103496:5"/> time they beat friends on their heads and shoulders, until some re<g ref="char:EOLhyphen"/>ceived above one hundred blows, as was generally judged by the be<g ref="char:EOLhyphen"/>holders, and drove them on the aforesaid Centinels, who were pre<g ref="char:EOLhyphen"/>pared with such cruel Clubs in their hands, and such deliberate Cru<g ref="char:EOLhyphen"/>elty in their hearts, that they were every one in a second Jeopardy of their lives when they had past the Horse, and divers friends were that day beaten till their flesh was turned from its natural Colour with the blood being stopt, and turned as a jelly in the flesh, and their Limbs deprived of their natural use.</p>
+               <p>Again on the <hi>3d.</hi> of the <hi>11th.</hi> Moneth there came a Company of Souldiers on foot, and some on horseback, Armed as aforesaid, to the Meeting, at which time about 60 friends were gathered together upon the place, and in a very furious manner did they fall on as if they had intended to have slain them all with their cruel Clubs and Carbines, knocking down divers in the street, among whom one old Man above sixty years of age, they knockt down and beat in so unreasonable a manner, until the people cry'd out <hi>Let that old man have no more blows, he hath enough;</hi> and he being not able to go, was led home to his house: Another old man of sixty five years old, was followed a great way from the Meeting by 3 on foot, and one on horseback, and so beaten and bruised he was, that it is questionable whether one of his arms may ever be recovered to its former use; and a woman being moved with pity to see the old Man so abused, spoke to them, at which he on horseback came up to her, and with his drawn sword gave her a cruel blow over the shoulders, with bit<g ref="char:EOLhyphen"/>ter Curses, and very uncivil speeches, not fit to be named.</p>
+               <p>And on another day about 40 of the aforesaid Souldiers came to the Meeting, and struck exceeding desperately on the Men-friends, endeavouring to strike one man over the face with their Cudgels, and had in likelyhood utterly spoiled him, had not his wife been neer who to save his life endured many sharp blows, and with Iron Spikes drove into the end of their Clubs and sharpened, did they that day much harm to divers, pricking and wounding one ancient woman, a Widdow of good report in the town, in no less then 12 several pla<g ref="char:EOLhyphen"/>ces in her body; and another Woman was prickt in the reins of the back, and many others they would come behind and run those spikes into their flesh, and made themselves sport at it.</p>
+               <p>Upon the <hi>13th.</hi> of the 1st. Moneth, 1664. Captain <hi>Turner</hi> quar<g ref="char:EOLhyphen"/>tering with his Company of Souldiers being in number about 200. set his guard in the way to our meeting-place; and as any person or
+<pb n="10" facs="tcp:103496:6"/> persons came that they supposed to be Quakers they stopped them, and kept them in the market-place till they had taken as many as came, and there kept them an hour or more: then came Sergeant <hi>White,</hi> and no other Officer with him, who said unto us deceitfully, <hi>Ye may depart to your houses, or whether you will, in Gods name,</hi> and that he was sorry we were troubled in that kind; and it being near our meeting-place we went in there, and sate peaceably in silence wait<g ref="char:EOLhyphen"/>ing upon the Lord: we having been there about half an hour, Then came Captain <hi>Turner</hi> with his Officers and souldiers, they meeting with a friend going from our Meeting, being sick, forced him back again, and said <hi>he should take part with the rest,</hi> and struck him several blows: And being come to the Meeting-house, set a guard of Mus<g ref="char:EOLhyphen"/>quetteers without the door, and left one Sergeant with them: Then came in the Captain, with his Lieutenant, Ensigne, Quartermaster, and three Sergeants, and said twice, <hi>Where is your Speaker:</hi> no answer being given, he spake no more words to us at present but <hi>ye Rogues get ye out,</hi> immediately he violently fell a striking, and so did the rest of his Officers, upon both old and young, male and female in the house, their blows being so many, and coming so fast upon us, we could hardly have passage out at the door, where the fore-mention<g ref="char:EOLhyphen"/>ed guard of Musketteers were placed with their Sergeant, who as we came out struck us with their Muskets, so that the blows of ma<g ref="char:EOLhyphen"/>ny without, were worse then were received within, even to the wonderment of the standers by: some went to see our bad usage, few of us there were that was not sorely beaten, and the blood of se<g ref="char:EOLhyphen"/>veral running down upon them: This being done to us, then they beat down the walls and windows of the house, carryed away the doors, pulled down the Chimney, and the main Dormund of the house, with which fell the whole planckering of the Chamber: Then they gave, and carried away, and sold, what they pleased, defacing the house to the value of <hi>25l.</hi> and upward, according to the estima<g ref="char:EOLhyphen"/>tion of workmen: This done, next morning they departed the Town.</p>
+               <p>This is a true Relation of Captain <hi>Turner</hi>'s proceedings, and his Souldiers, against us in <hi>Halsted,</hi> who suffered by him, and were eye<g ref="char:EOLhyphen"/>witnesses of the same.</p>
+               <p>And whereas it was incerted in the News book That the Captain came to us, and after Examination, and fairly warning us not to trouble the Government by those unlawful Assemblies, and to come orderly to Church after dinner: with many other things that are
+<pb n="11" facs="tcp:103496:6"/> therein mentioned, it is altogether false; for he came not at us, neither spake to us till he came to beat us in the Meeting-house as aforesaid.</p>
+               <list>
+                  <item>Thomas Isaac.</item>
+                  <item>Edmond Pryor.</item>
+                  <item>James Allen.</item>
+                  <item>Richard Bunting,</item>
+                  <item>Daniel Pryer.</item>
+                  <item>William Bunting.</item>
+                  <item>Richard Norde<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</item>
+                  <item>Edmund Mauly.</item>
+                  <item>William Bappon.</item>
+                  <item>William Swan.</item>
+               </list>
+               <p>And thus we are caused to suffer, and our lives are often in Jeo<g ref="char:EOLhyphen"/>pardy, who are innocent people, and no ways deserve any such usage from these Souldiers or other people; but ought rather to be en<g ref="char:EOLhyphen"/>couraged, and helped forward in our peaceable Innocent conver<g ref="char:EOLhyphen"/>sations amongst those we have to do with.</p>
+            </div>
+            <div type="part">
+               <head>SUFFOLK.</head>
+               <argument>
+                  <p>
+                     <hi>A short Relation of the sad and cruel usage of two of the Kings peaceable Sub<g ref="char:EOLhyphen"/>jects,</hi> John Shipman <hi>of</hi> Crettingham <hi>in the County of</hi> Suffolk; <hi>and</hi> Thomas Vertue <hi>of</hi> Clopton <hi>in the same County, both of them of that People who are in soorn called Quakers.</hi>
+                  </p>
+               </argument>
+               <p>THe said Persons being informed against (by the Sheriffs, Bailiffs, and by the Bailiffs of the Liberty, where the said persons dwell) upon a Statute made against Popish Resusants, and for their not be<g ref="char:EOLhyphen"/>ing at the Publick worship for eleven Moneths past: At a Quarter Sessions holden at <hi>Woodbridge</hi> in the said County, <hi>John Sicklemore</hi> b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ing Judge there, Judgment was past against them by the justices there, to pay <hi>20l. per</hi> Month, for 11. months elevenscore pounds a piece, and the Sheriff <hi>Isaack <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ienoh,</hi> and the Bailiffs <hi>Henry Cauler, John Wolton,</hi> and <hi>George Wolton,</hi> with others aforesaid, have violently taken away goods worth sixty eight pound fifteen shillings, from <hi>John Shipman:</hi> and Thirty five pounds worth from <hi>Thomas Vertue,</hi> and do threaten to take more from them until they be satisfied for the Fine of twice Elevenscore pounds, although the whole estate of <hi>Tho. Vertue</hi> is not judged to be worth half so much; so that if there be not shewed some redress to these poor men, the said <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ho. Vertue,</hi> his wife and six children, are like to be left destitute<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and further, the said persons were (for the same cause) both kept in prison, the one of them a year and a half, the other a year and a quarter, before their
+<pb n="12" facs="tcp:103496:7"/> goods and Cattel were taken away. And the said Bailiffs do threat<g ref="char:EOLhyphen"/>en that they will inform against several others of the people afore<g ref="char:EOLhyphen"/>said, upon the same account.</p>
+            </div>
+            <div type="part">
+               <head>NORFOLK, <hi>in prison there</hi> 21.</head>
+               <p>We whose names are under-written, coming to great <hi>Yarmouth</hi> in <hi>Norfolk,</hi> about our lawful occasions (and one being put into that harbour by contrary wind, when he was returning to his habitation in <hi>Holland)</hi> we were upon the first day of the week met together in a peaceable manner, and not in the least to the terrour of the people, or to the disturbance of the peace of the Town or Kingdom; and ha<g ref="char:EOLhyphen"/>ving injoyed our Meeting peaceably, and being in a readiness to de<g ref="char:EOLhyphen"/>part, At the very instant of time came in a Lieutenant with a Con<g ref="char:EOLhyphen"/>stable, together with divers souldiers and others that accompanied them: and they took the names of most of the men and women that were present; but as for us that were strangers, they carried us to the Main-guard, where they kept us that night, and the next day we were carried before the Bailiffs of the Town, to whom we gave a good account of the occasion of our coming to the town, of our busi<g ref="char:EOLhyphen"/>ness in the town, and of our determination of our departing out of the town so soon as our business was dispatched, and that the wind served for five of us belonged to one Vessel that was come to the town to take in Red-Herrings for the Straits) but whatsoever we said in our own defence it seemed to be little regarded by them.</p>
+               <p>And when they had examined us a little, they produced their grand-snare, to wit, the Oath of Allegiance, which for conscience we could not take, nor any other Oath whatsoever: whereupon they committed us to the common Gaol, with a strict order (as we were told several times) that none of our friends should be permitted to come at us, nor that no manner of provision should be brought in unto us; and the Gaoler being ready to observe their order, we were kept near upon eight weeks so close, that in all that time the door was not once opened by the Goalers order (that we know of) to let in any provision to us, and we being shut up in a high Cham<g ref="char:EOLhyphen"/>ber, we were therefore so much the more straitned. And when the Bailiffs were spoken to concerning the Goalers severe dealing with us, they or one of them replied, <hi>They would carry him, out in what he did, And that we should not have any thing but what we had of the Goaler:</hi> Howbeit afterwards we had so much priviledge as to have our victu<g ref="char:EOLhyphen"/>als
+<pb n="13" facs="tcp:103496:7"/> handed in at the door: We have now remained here above <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> weeks, and have not as yet been brought to any further tryal. And we could say much of their cruelty towards us since we were com<g ref="char:EOLhyphen"/>mitted; but the Lord hath given us patience to bear the same for his Truthes sake, in which we remain innocent sufferers.</p>
+               <closer>
+                  <dateline>
+                     <hi>Yarm<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he <date>14 of the 1st Moneth called <hi>March,</hi> 1664.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>Robert Ruine.</item>
+                        <item>James Crow.</item>
+                        <item>John Rust.</item>
+                        <item>William Cat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n.</item>
+                        <item>Edward Andrews.</item>
+                        <item>Stephen Nick<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ls.</item>
+                        <item>Edward Cox<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>re.</item>
+                        <item>John Hobson.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>Nine other were taken out of a Meeting in <hi>Thetford:</hi> and one <hi>Wil: Rennet</hi> is in <hi>Norwich</hi> Castle: and one widdow woman besides, and se<g ref="char:EOLhyphen"/>veral others for Tythes, who have lain in several years: and many friends are Excommunicated.</p>
+            </div>
+            <div type="part">
+               <head>In the Isle of <hi>Ely.</hi>
+               </head>
+               <p>Six taken out of their peaceable Meeting, and the Oath tendred to them, and for refusing to swear have been kept in prison, some seven months, some more, and some less. One committed to prison to the common Goal in <hi>Wisbeech,</hi> and there kept close prisoner, he knows not for what. Two committed to the common Goal after Ex<g ref="char:EOLhyphen"/>communication, for not going to the Steeple-house.</p>
+            </div>
+            <div type="part">
+               <head>HARTFORDSHIRE, 13.</head>
+               <p>Seaven friends were taken out of their peaceable Meetings, and commited to prison; some of them have remained in prison 3 years and upwards, one is committed for not finding suretyes, and one for practicing surgery without License: and one other committed by the same Warrant.</p>
+               <p>One old man imprisoned for a pretended debt of five pence, about 6 years since, kept prisoner for the same about 5 years, not yet dis<g ref="char:EOLhyphen"/>charged.</p>
+               <p>Two others imprisoned for Tythes, and one for not paying fees to the Clerk of the peace: which hath been kept in above a year.</p>
+            </div>
+            <div type="part">
+               <head>CAMBRIDGESHIRE, 27.</head>
+               <p>Three taken at a Meeting the <hi>9th Mon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h,</hi> 1663. and committed to prison by the high Sheriff without having them before any Justices, and at the assizes following they framed an Indictment against them for absolute denying to hear Common Prayer, contrary to their Mittimus, which run for being taken at a Meeting, &amp;c.</p>
+               <pb n="14" facs="tcp:103496:8"/>
+               <p>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>of Chesterton</hi> being brought before the Sessions fot not going to the Worship, was committed by them for refusing to give bon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> good behaviour, and afterward was excommunicated for for not going to their Common worship, and was arrested for the same the <hi>10th</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> last, notwithstanding he was Prisoner before and in the last year he had two Cowes worth <hi>7l.</hi> taken from him, for refu<g ref="char:EOLhyphen"/>sing to swear.</p>
+               <p>
+                  <hi>Iohn Dring</hi> of <hi>Chatteris</hi> was arrested by a Priest for Tythes, and ex<g ref="char:EOLhyphen"/>communicated for not going to the publick worship and arrested for the same; notwithstanding he was Prisoner before about 9 Monthes.</p>
+               <p>
+                  <hi>Walter Cr<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> of <hi>Horsed,</hi> excommnicated for not paying the priest Tythes, and arrested, and hath been a Prisoner 1 year and 4 Moneths. <hi>John Webb</hi> of <hi>Balsham,</hi> fined and imprisoned for not going to the pub<g ref="char:EOLhyphen"/>lick worship. <hi>James Blakely,</hi> the elder of <hi>Cambridge,</hi> committed to prison for Tythes, and hath been a prisoner 2 years at the suit of priest <hi>Lolworth.</hi>
+               </p>
+               <p>The <hi>27th</hi> of the <hi>9th Month,</hi> 1663. friends being met together in the name and fear of the Lord in <hi>Cambridge,</hi> there came Captain <hi>Story,</hi> Alderman <hi>Merril,</hi> Dr. <hi>Wons,</hi> and some rude company; the Captain commanded the rude company to take of their upper garments, which they did, and then the Captain and the Alderman with their great C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nes struck upon friends heads and bodyes, with as much force as they could, and so beat and wounded some of them, and carried away their garments, and keeps them; and the said Captain said, that if any Surgeon should cure them of their wounds he will kill them, or to that purpose▪</p>
+               <p>Upon the 5 day <hi>8th Month,</hi> the same people being met together in the same place to wait upon the Lords, there came a man and kept them in till the <hi>Mayor</hi> of the Town came with Alderman <hi>Clench,</hi> and other company, who commanded a guard to be set upon them untill their sermon was ended, and then he said he would take a course with those cattle, and said <hi>Ye are all dumb, would you had been born so,</hi> and after their Sermon he caused them to be had to the Town-hall.</p>
+            </div>
+            <div type="part">
+               <head>HUNTINGTONSHIRE, 3.</head>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urnel</hi> hath been a prisoner 3 years and upwards▪ <hi>Daniel M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ddy</hi> committed the 8th. Month last: And <hi>William Nixon</hi> three Month<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> since.</p>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:103496:8"/>
+               <head>LINCOLNSHIRE, 10.</head>
+               <p>Six imprisoned there for Tithes, two of them have lain in ever since the year 1659. <hi>Iohn Williamson</hi> cast into prison the 24th of the 7th. month, 1663. by the procurement of <hi>William Parker</hi> Priest; who ha<g ref="char:EOLhyphen"/>ving cast <hi>William Bancroft</hi> and <hi>John Cleasby</hi> into prison for Tythes, threatned to send all such to prison as should come to help get in the said <hi>William Bancrofts</hi> harvest; the said J. <hi>Williamson</hi> knowing the necessity of the said <hi>William Bancroft,</hi> went to help in his harvest, which the Priest perceiving, he procured a Warrant of <hi>Martin Leister,</hi> and caused him to tender the said <hi>John</hi> the Oaths of Allegiance and Supremacy, not finding any other occasion to get him to prison.</p>
+               <p>One was committed for visiting his friends in Truth, and his friends according to the flesh, and for refusing to swear; but his Mittimus was without date of day or Moneth.</p>
+               <p>Three others committed for several other Causes, and remain still in prison.</p>
+            </div>
+            <div type="part">
+               <head>Northamptonshire, 27.</head>
+               <p>Eleven have lain in there above six Months, because they could not swear. One hath been in prison above fifteen Moneths for refusing to take an Oath: at a Court five in prison for Tithe: some have lain in prison 15 Moneths: some more time, some less: Four taken at a peaceable Meeting, and for refusing to put in Bond for their good behaviour, were committed to prison: One for refusing to take an Oath, hath lain in prison 7 weeks. Five imprisoned in the Mayor of <hi>Northamptons</hi> Jurisdiction: Two for opening their Shops on a holy-day, so called, and the other three for meeting: Six were lately carried out dead, 3 together in one day; and several others are very sick.</p>
+            </div>
+            <div type="part">
+               <head>Nottinghamshire, 8.</head>
+               <p>
+                  <hi>Edward Langford</hi> prisoner for Tithes above 4 years: <hi>Roger Storr</hi> prisoner for the same cause about 3 years and a half: <hi>William Smith</hi> for the same cause about one year and 5 Moneths. <hi>Robert Shaw</hi> pri<g ref="char:EOLhyphen"/>soner for the same cause about six Moneths: <hi>Frnncis Clay</hi> for the same cause about seven moneths: <hi>Robert Grace</hi> for the same cause about 7 moneths. <hi>William Kirk</hi> for refusing to swear, hath been imprison<g ref="char:EOLhyphen"/>ed about 7 weeks. <hi>Christopher Wasse</hi> for refusing to pay fees to the Clark of the peace, hath been a prisoner about 6 weeks.</p>
+            </div>
+            <div type="part">
+               <pb n="16" facs="tcp:103496:9"/>
+               <head>STAFFORDSHIRE, 3.</head>
+               <p>
+                  <hi>Thomas Taylor,</hi> because in conscience to Christ he could not swear, put under the sentence of premunire, where he hath been im<g ref="char:EOLhyphen"/>prisoned neer two years.</p>
+               <p>
+                  <hi>John Scot</hi> upon Account of Meeting to wait upon the Lord is impri<g ref="char:EOLhyphen"/>soned.</p>
+               <p>
+                  <hi>Anthony Bowman</hi> for not paying, and for not going to the Steeple<g ref="char:EOLhyphen"/>house, committed to prison.</p>
+            </div>
+            <div type="part">
+               <head>DARBYSHIRE, 25.</head>
+               <p>The 26 of the <hi>10th Month,</hi> 1663. the meeting of friends in <hi>Chester<g ref="char:EOLhyphen"/>feild</hi> was broken up, and friends violently pulled into the open mar<g ref="char:EOLhyphen"/>ket-place, and from thence five of them sent by the Mayor, to the house of Correction:</p>
+               <p>Five more men-friends taken out of their meeting the <hi>4th</hi> day first Month, and committed to prison, and at the assizes were brought be<g ref="char:EOLhyphen"/>fore the Judge, who fined them five pounds a piece, and committed them again until payment.</p>
+               <p>Seaven more friends taken out of a meeting the <hi>13th</hi> of the same Month, and kept in the Town-Hall 2 nights without any beds or straw, and then committed to the common Goale, there to remain in prison 2 Moneths.</p>
+               <p>Seaventeen Men and their Wives, and some servants are excommu<g ref="char:EOLhyphen"/>nicated, and some of them have had some of their goods taken away for not going to the Steeple-house.</p>
+               <p>
+                  <hi>John Lynham</hi> for 5<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. demanded for Tythes, had a Cow taken away from him worth <hi>3l. 3s. 4d.</hi> and since had a brass pan taken from him for not going to the Steeple-house.</p>
+               <p>
+                  <hi>George Brugh</hi> was sued for the Tythes of some Wool and Lamb, by priest <hi>Coops</hi> of <hi>Chesterfeild,</hi> and the priest took▪ <hi>1l.</hi> and the Lawyer, <hi>1l. 7s. 6d.</hi> and the Baliff, <hi>2s. 6d.</hi>
+               </p>
+               <p>
+                  <hi>John Frith</hi> was served with the same writ for Easter Reckning, and the priest could not demand above a shilling, which he never demand<g ref="char:EOLhyphen"/>ded before he sued, and some of the said <hi>John Friths</hi> Relations were not willing to let him lye in prison, but went to the priest and he put them to the Lawyer, and the Lawyer took <hi>1l. 1s.</hi> and the Baliff <hi>2s. 6d.</hi> and the priest said he would have nothing, but afterwards took 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>6d.</hi>
+               </p>
+               <pb n="17" facs="tcp:103496:9"/>
+               <p>
+                  <hi>Robert Levick</hi> was sued by the same priest, subpeened to <hi>London</hi> and afterward arrested and cast into prison and that which he is in prison for is judged to be not above <hi>7d.</hi> which the priest never demanded neither, he being a very poor man, a thresher.</p>
+            </div>
+            <div type="part">
+               <head>Kent, 10.</head>
+               <p>Seaven friends were taken out of a Meeting, and by the Recorder of <hi>Canterbury, Fran, Lovelace,</hi> fined <hi>5l.</hi> a piech, or else 3 Moneths im<g ref="char:EOLhyphen"/>prisonment: also a Bill was drawn up against <hi>Henry Rogers</hi> and his ap<g ref="char:EOLhyphen"/>prentice, for not going to Church, as they call it, in 10 weeks before, part of which <hi>Hen. Rogers</hi> was in prison: for which he fined them <hi>10s.</hi> a piece, and so sent them all 9 to prison, and because the aforesaid seven would not pay theit fines, he charged the Goaler to shut them in seve<g ref="char:EOLhyphen"/>ral Roomes, and not let them come together, and said <hi>they should not come out so long as he lived,</hi> who soon after dyed sudainly and as it is re<g ref="char:EOLhyphen"/>ported, sadly: and severall are excommunicated in this county for not going to the Steeple-house and two men imprisoned since excommu<g ref="char:EOLhyphen"/>nication.</p>
+            </div>
+            <div type="part">
+               <head>YORKSHIRE, 51.</head>
+               <p>4 Friends imprisoned in <hi>Beverly</hi> that have broken no Law of God, nor man, and at <hi>Hull</hi> there is seaven friends who have been in near 2 years for not giving suretyes for their good behaviour when they were of no evill behaviour.</p>
+               <p>Forty friends imprisoned in <hi>York</hi> Castle, nine of them taken, some of them from their peaceable meetings as they were waiting on the Lord, and some taken from their own houses, and for refusing to swear had the sentence of premunire past against them, and so sent to p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ison again, where they now remain, having been prisoners ever since the <hi>3d</hi> Month, 1662. some of them, and some since the 6 Month in the same year, and the rest so long within two Moneths, and they that past the sentence against them gave order that their houses should be rifled, their goods spoiled, and their lands seized upon.</p>
+               <p>Twelve committed because they cannot pay Tythes, some of them having been in prison 4 years, some more some less.</p>
+               <p>Ten imprisoned upon excommunication, because they cannot swear to their answer.</p>
+               <p>One committed because he could not swear to an answer upon Custome.</p>
+               <pb n="18" facs="tcp:103496:10"/>
+               <p>Two Committed for speaking in two Steeple-houses one of which hath been imprisoned above 3 Moneths.</p>
+               <p>Six taken at a peaceable meeting and hath been imprisoned 3 weeks.</p>
+            </div>
+            <div type="part">
+               <head>Cheshire, 11.</head>
+               <p>Two for not paying a Levy for the Priest by the old Rent, were excommunicated, and are imprisoned: Four imprisoned for refu<g ref="char:EOLhyphen"/>sing to swear: Two have been prisoners six Months for not paying Tythes, being also excommunicated: Two others lately committed for Tythes: One imprisoned being first excommunicated for pra<g ref="char:EOLhyphen"/>ctising Physick without Licence.</p>
+            </div>
+            <div type="part">
+               <head>Lancashire.</head>
+               <p>There is 13 from <hi>Hawkeshead</hi> for meeting, and one because he could not swear in obedience to Christs command, of which one is dead, and two lies sick in bed: There is 20 from <hi>Yelland</hi> side for meeting together peaceably in the fear of God, without any pre<g ref="char:EOLhyphen"/>tence.</p>
+               <p>There is 9 in prison for Tythes, of which one lies very weak and sick. One in prison through the misinformation of a Priest, and hath continued in prison above 2 years; and some have lain in prison 2 years, and some three.</p>
+               <p>And therefore you that be Justice to consider these things, that the innocent may not dye in prison, that you may not bring innocent blood upon you, that thinks you no hurt, nor none living: for ho<g ref="char:EOLhyphen"/>nest men being cast into prison, they cannot be serviceable to the Creation.</p>
+               <p>Two out of <hi>Cheshire,</hi> one of which is an old man above 60 years, and the other is a broken and lame man; they were taken out of a peaceable meeting, when they came to visit the prisoners.</p>
+               <p>There is 24 out of <hi>Fornace</hi> that are summoned to appear for meet<g ref="char:EOLhyphen"/>ing together in the fear of the Lord.</p>
+               <p>There is one out of <hi>Mi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lam</hi> for being at a peaceable meeting.</p>
+               <p>
+                  <hi>Robert Widder</hi> for going to a meeting was fined by the Justices in <hi>3l. 6s. 4d.</hi> had 2 Cows taken from him worth <hi>6l. 10s.</hi> of which one came again.</p>
+               <p>
+                  <hi>Tho: Seaper</hi> for being at a meeting was fined by the Justices in <hi>1l. 13s. 4d.</hi> had a Mare taken from him worth <hi>4l.</hi>
+               </p>
+               <pb n="19" facs="tcp:103496:10"/>
+               <p>
+                  <hi>Robert Bruse</hi> had goods lately taken from him worth <hi>12l.</hi> for the value of <hi>20s.</hi> Tythe.</p>
+            </div>
+            <div type="part">
+               <head>Westmerland, 13.</head>
+               <p>One friend committed for refusing to swear, and hath been in eleven weeks. Eleven taken from their peaceable meeting, and com<g ref="char:EOLhyphen"/>mitted to prison, where they still remain prisoners.</p>
+               <p>One other committed lately to <hi>Appleby</hi> Goal for refusing to swear▪</p>
+            </div>
+            <div type="part">
+               <head>Cumberland, 35.</head>
+               <p>Some for Tythes, some for not hearing Common Prayer, some taken out of their peaceable Meeting, and some from their own hou<g ref="char:EOLhyphen"/>ses, and some upon Premunire, and since an Entrance was made, and their goods taken away for the Kings use: Yet nevertheless have had their goods distreined upon (which was provided for the relief of them in prison, and their family) for not going to hear the Com<g ref="char:EOLhyphen"/>mon Prayer, though they are still detained close prisoners: Also several others have been fined, and their goods destreined, for not going to hear Common Prayer since they were prisoners: Also the prison house being but only one little Room, about the space of 6 or 7 yards every way, having but only two little holes or windows, about 4 yards high from the ground, which is kept lockt, that one cannot pass by another to see the face of a friend without, neither any place for Air or convenient easing of themselves.</p>
+            </div>
+            <div type="part">
+               <head>Bedfordshire, 6.</head>
+               <p>Six imprisoned there for Tythes; some have been in two years: One above 3 years, and still remains: And one widdow woman hath been in 3 months.</p>
+               <p>The widdow <hi>Rawling</hi> of little <hi>Bareford</hi> had taken from her by <hi>Ro<g ref="char:EOLhyphen"/>bert Pai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Priest, and <hi>Jasper Edwards,</hi> for about <hi>5l. 10s.</hi> demanded for tythes, 5 Cows, 3 beasts, and 3 horses, to the value of <hi>55l.</hi> and keeps the same.</p>
+            </div>
+            <div type="part">
+               <head>Hartfordshire.</head>
+               <p>
+                  <hi>Edward Welch</hi> of <hi>Tring,</hi> had taken from him by <hi>Fulk Tedder</hi> Priest of the same Parish, goods worth sixty five pounds ten shillings and <hi>2d.</hi> for Tythes, which formerly the Priest had <hi>8l.</hi> for his Tythes:
+<pb n="20" facs="tcp:103496:11"/> And the said <hi>Edward Welch</hi> was not sued nor arrested, nor distrained by way of Legal proceedings for the same.</p>
+            </div>
+            <div type="part">
+               <head>Leicestershire, 4.</head>
+               <p>Three committed for Tythes: and one upon a Sessions process: And not long since 8 friends were fined for Meeting to wait upon the Lord, and for the Fines had as many goods, Cattel, and Horses ta<g ref="char:EOLhyphen"/>ken from them, as amounted to fifty nine pounds ten shillings.</p>
+            </div>
+            <div type="part">
+               <head>DURHAM, 17.</head>
+               <p>Seaven committed for refusing to pay Tythes; some have been in two years, some more and some less: Two upon the third conviction, one of them hath been a prisoner above one year▪ the other above six Moneths. Four were taken at a Meeting, and have remained in pri<g ref="char:EOLhyphen"/>son 17 weeks, two for refusiug to swear have remained in prison more then 12 Moneths▪ and one for the fame cause hath been sentenced, to be under a premunire, above a year since, one other lately dommitted for refusing to swear.</p>
+            </div>
+            <div type="part">
+               <head>Sussex, 19.</head>
+               <p>One being taken out of his peaceable habitation, was sent to <hi>Hor<g ref="char:EOLhyphen"/>sham</hi> Goale, and at the Assizes had the sentence of premunire past a<g ref="char:EOLhyphen"/>gainst him, and hath remained in prison near two years, at the same time 3 others were taken as they were going to a meeting, and com<g ref="char:EOLhyphen"/>mitted to prison, and were fined, and are kept in prison for not pay<g ref="char:EOLhyphen"/>ing the fine, nine friends were taken out of a Meeting in <hi>Arundle</hi> by armed men, with Guns and swords drawn without a civil officer; and kept till they sent for a Magistrate, who sent them to <hi>Horsham</hi> Goale where they stil remain, one excommunicated and imprisoned for not paying <hi>12s.</hi> Tythes.</p>
+               <p>One excommunicated for not payment to repair of the Steeple<g ref="char:EOLhyphen"/>house: On man and one woman taken out of a meeting, and com<g ref="char:EOLhyphen"/>mitted to prison, two committed for not going to the Steeple-house. <hi>Henry Bennet</hi> of <hi>Wiston</hi> in the year, 1663. had taken from him sor <hi>Wal<g ref="char:EOLhyphen"/>ter Bartlet</hi> for <hi>9l.</hi> Tythes, 5 Cows, one Calf, three heifers, and one mare worth in all <hi>33l.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="21" facs="tcp:103496:11"/>
+               <head>Hampshire, 17.</head>
+               <p>For meeting imprisoned 13 and fined by Judge <hi>Forster,</hi> ten pound each of them, and at the last Assizes, the Judge brought it to 40<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. each except two, and they were fined 5 mark a peice, imprisoned for Tythes three, and for keeping a School without Licence, one.</p>
+            </div>
+            <div type="part">
+               <head>Oxfordshire, 10.</head>
+               <p>Four imprisoned for refusing to swear, and three for Meeting to wait upon the Lord, and to worship him in Spirit and Truth, three in the Castle, one of them hath been a prisoner about 21 Moneths, and hath had the sentence of premunire past upon him.</p>
+               <p>Upon the <hi>17th</hi> of the <hi>8th</hi> Month, 1662. by order of the Justices in quarter Sessions, 17 of our friends were fined <hi>5l.</hi> a peice, and sent to prison for no other cause but for meeting together in the fear of the Lord, and for worshipping him, as they are perswaded in their consci<g ref="char:EOLhyphen"/>ences they ought to do; for which sines 2 Bailiffs, <hi>John Tycrosse</hi> and <hi>Rich. Cook,,</hi> imployed by the under Sheriff, took away goods from them as followeth.</p>
+               <p>
+                  <hi>Robert Seacole</hi> of <hi>Milton.</hi> had taken from him one Mare and Colt woreh <hi>6l.</hi> and 1 little gelding worth <hi>40s.</hi>
+               </p>
+               <p>
+                  <hi>George Hancock</hi> of <hi>Milton,</hi> had 2 Cows taken from him worth <hi>9l.</hi>
+               </p>
+               <p>
+                  <hi>Michael Sessions,</hi> a poor labourer about 70 years old, and <hi>James</hi> his Son; a poor weaver who hath a wife great with child, and 3 small children, had taken from them all the Ba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ley that grew upon 2 Acres of Land, being all they had: and that would not satisfie, but they took the Corn the poor old man leazed in time of harvest: worth in all <hi>4l.</hi> and four loads of hard wood worth <hi>4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> one half sheet, and 1 pair of hempen sheets, which were for the lodging his poor children, in worth about <hi>14<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> and one bushel of Wheat, and one bushel of Barley and Wheat, which was for bread for themselves and their children, worth <hi>9s.</hi> and half a bushel of beans worth <hi>18d.</hi> and severall wicked men for three days together rifled their house at their pleasure, and took and carried away what they pleased, and not being satisfied with all this▪ proffered to sell their straw.</p>
+               <p>
+                  <hi>Francis Dring</hi> of <hi>Brisnorton,</hi> a Labourer, had taken from him five Piggs worth ten shillings, a Boulster and Pewter Pot worth <hi>10s.</hi> and a sack worth <hi>2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> besides some Pease which this poor man had provi<g ref="char:EOLhyphen"/>ded at a hard rate to feed those hoggs to be meat for himself, wife, &amp; children, judged to be about 6 Bushels, worth <hi>17s.</hi>
+               </p>
+               <pb n="22" facs="tcp:103496:12"/>
+               <p>
+                  <hi>Thomas Minchen</hi> of <hi>Burford</hi> had taken in monies out of his Box, and Stuff out of his Shop, the worth of <hi>8l.</hi>
+               </p>
+               <p>
+                  <hi>Benjamin Staple</hi> had his money box broken open by them, and they took out of it <hi>5l.</hi>
+               </p>
+               <p>
+                  <hi>Alexander Harris</hi> of <hi>Chalbury</hi> had taken from him a Gelding which he was proffered <hi>4l.</hi> 12<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. for but a little before, and they took hous<g ref="char:EOLhyphen"/>hold goods besides, to the value of <hi>50s.</hi>
+               </p>
+               <p>
+                  <hi>Richard Kite,</hi> and <hi>William Kite,</hi> of over-<hi>Norton,</hi> Carpenters by Trade, being abroad at work, the aforesaid Bailiffs went into their houses, and made seizure of their Timber.</p>
+               <p>
+                  <hi>William Pettifer</hi> being taken out of a Meeting where he dwelt, and had before 2 Justices, they tendred him the Oath, and upon refu<g ref="char:EOLhyphen"/>sing to swear, they sent him to prison, and about six weeks after was called before the Judges of Assize, who tendred him the Oath again, and upon his refusal sent him to prison again, where he remains still.</p>
+               <p>
+                  <hi>Robert Willet</hi> and <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ohn Willet,</hi> being taken out of a Meeting at their own dwelling at <hi>Milton,</hi> and at the Quarter-Sessions the Justices re<g ref="char:EOLhyphen"/>quired security for the good behaviour; and upon their refusal they were committed to prison, the said <hi>Robert Willet</hi> not being well in his body at the same time, and being in a course of Physick (there was bail offered by reason of his sickness) but it would not be grant<g ref="char:EOLhyphen"/>ed, so he wanting such necessaries as he might have had, had he been at liberty, he grew worse and worse, and died.</p>
+               <p>
+                  <hi>Richard Clinton,</hi> being a young man, and able in body, when he was committed to prison, being fined according as the others were, before mentioned, and after complaining of some wrong he receiv<g ref="char:EOLhyphen"/>ed in Prison, by reason of the poor lodging he had, and taking cold, grew sick as he was going from prison towards his dwelling in the Country, where he in a short time after dyed.</p>
+            </div>
+            <div type="part">
+               <head>Berkshire, 38.</head>
+               <p>Three Men and one Woman hath been in prison about 9 months, committed by one <hi>Hide,</hi> called a Justice, from <hi>Kingston Ilsley</hi> to <hi>Ab<g ref="char:EOLhyphen"/>ington</hi> Sessions, and for not coming to Common Prayer fined <hi>80l.</hi> a piece severally, by the said <hi>Hide,</hi> and sent to Goal, there to be kept till they pay it; although he himself said they were not able to pay it: On the 27th. day of the first Moneth, being a first day, Thirty four friends were taken out of their Meeting in <hi>Reading,</hi> by one <hi>Wil<g ref="char:EOLhyphen"/>liam Armor,</hi> called a Justice, who caused a Mittimus forthwith to be
+<pb n="23" facs="tcp:103496:12"/> made, and lent them to prison: Many friends in several places in this County have had their goods destrained and taken away from them for not going to the Steeple-house, commonly called a Church.</p>
+            </div>
+            <div type="part">
+               <head>WILTSHIRE, 25.</head>
+               <p>Fourteen Men and Women, who being peaceably met together in the fear of the Lord at <hi>Market-Lavington,</hi> their came in the Con<g ref="char:EOLhyphen"/>stable of that place with a rude company, having no warrant from any of those called Justices, and haled some friends out of the meeting into an Alehouse; and one friend they put in the stocks the same time, and afterwards kept them prisoners; some friends being willing to go to that friend siting in the stocks, the aforesaid Constable haled some of them also into the Alehouse, and kept them prisoners with the rest, and set a guard upon them; then some friends went to see those that were prisoners, whom they kept also; these friends aforesaid not inhabiting in that town, the next morning the foresaid rude company came with violence and forc'd us out of town, by haling, thrusting, and punching: One friend of that town seeing us so badly used by those unreasonable men, came unto them and desired them not to deal so with them; at which they were very angry, and laid violent hands on him, and haled him to the Stocks, and kept him there about 5 hours; Yet notwithstanding they forc'd us to one called a Justice, without any Warrant: so the Justice committed us to prison; but this did not satisfie the envy of the Constable and others, for they got a Warrant from the said Justice to fetch some more friends be<g ref="char:EOLhyphen"/>fore him, and he committed them also; most of us being very poor men, having little or nothing but what we work for, some of us ha<g ref="char:EOLhyphen"/>ving families to maintain: the Justice having no pity on us neither, sent us all to prison together, where we were very hardly dealt with<g ref="char:EOLhyphen"/>all, being put into the common Goal among the Fellons, (and ha<g ref="char:EOLhyphen"/>ving our Cloaths taken from us to our shirts, with some of our hats also) where we were kept some time: So being prisoners about 5 weeks we were had to Sessions: So at length being called, they pan<g ref="char:EOLhyphen"/>neld a Jury upon us, and tryed us, but we know not by what Law; but the Jury brought us in guilty before men, though innocent in the sight of God: So they fined us, some <hi>3l.</hi> and some <hi>40s.</hi> a peice, and returned us back to prison again, where we remain to this day. We were taken up the last <note place="margin">
+                     <hi>Mary Goodman,</hi> fined <hi>3l. Rose Carlile, 3l. Jane Selfe,</hi> fined <hi>3l. Joan Guines, 2l Jo. Leonard,</hi> &amp;c.</note> day of the 3d. Mo: 1663.</p>
+               <pb n="24" facs="tcp:103496:13"/>
+               <p>Eleven committed to prison for not paying Tythes, some of them have lain in prison 3 years and 7 Moneths, and several others two years a peice.</p>
+            </div>
+            <div type="part">
+               <head>Dorsetshire.</head>
+               <p>Two have been prisoners there for Tythes, upwards of 3 years: Two taken at a Meeting, and committed to prison about the 26th of the 4th Moneth, 1662. and at the next quarter Sessions were fined, one five pound, the other <hi>40s.</hi> and committed to lye in prison till payment: Six taken at a Meeting, and imprisoned, and at the last Summer Assizes, had the sentence of Premunire past against them, and they continued Prisoners: There is also 3 other prisoners, which they call Significavi men, which our friends do not well understand what it is except it be for not paying towards the Steeple house, or somthing relating thereto.</p>
+            </div>
+            <div type="part">
+               <head>Gloucestershire, 35.</head>
+               <p>Seven taken at a Meeting in the ninth Moneth last, and commit<g ref="char:EOLhyphen"/>ted to the North-gate prison: And twenty eight are in the Castle prison for not paying Tythes, some of them have been in prison se<g ref="char:EOLhyphen"/>veral years.</p>
+            </div>
+            <div type="part">
+               <head>Warwickshire, 22.</head>
+               <p>Four committed to prison for not paying Tythes, one of them hath been a prisoner 3 years and a half: <hi>Wil. Man</hi> hath been in three years, and the Priest <hi>John Dyde</hi> that sues him, whilst <hi>William</hi> was a prisoner, hath entred his ground, and taken away his goods and corn at his pleasure, in some places the greater half of all that grew upon the Land, and still deteins him in prison: And the other two friends have been prisoners 2 years and a half each of them, and though they were in prison, the Church-wardens (so called) of <hi>Eatonton,</hi> went to the house of one of them, and took away as much goods as was worth <hi>13s,</hi> for not going to the Steeple-house, although he was a prisoner.</p>
+               <p>Three friends Excommunicated.</p>
+               <p>
+                  <hi>Edward Clifton</hi> of <hi>Cowsel,</hi> excommunicated by <hi>Richard Adamson,</hi> Priest, and by him cast into Goal, where he hath been prisoner above 9 Moneths, in which time the said Priest hath taken away his goods, Hay and▪ Hemp, at his pleasure, and yet still deteins him in prison. <hi>Abraham Jordan,</hi> and <hi>Richard Sumerland</hi> his son in law, both of <hi>Sut<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n,</hi> excommunicated and cast into Goal by <hi>Jacob Kimmerly</hi> Priest,
+<pb n="25" facs="tcp:103496:13"/> there, who claimed <hi>3s. 4d.</hi> for 1 year of <hi>Abraham,</hi> and <hi>13s. 4d.</hi> of <hi>Richard</hi> for Tythes and herbage, for which he hath kept them in pri<g ref="char:EOLhyphen"/>son above half a year. There are 15 prisoners more in <hi>Warwick</hi> Goal, some for meeting to wait upon the Lord, others taken from their Labours and Callings; and six taken from their Inn, 3 of which came to <hi>Warwick</hi> to visit the prisoners there, and other 3 about their law<g ref="char:EOLhyphen"/>ful vocations and trading, a particular Account whereof is too large here to incert. <hi>Anthony Bickly</hi> fined <hi>5l.</hi> for having a Meeting at his house, for which they took two Mares worth <hi>12l. Robert Meek</hi> for be<g ref="char:EOLhyphen"/>ing at a Meeting fined <hi>3l.</hi> and had a Cow taken from him worth <hi>5l.</hi>
+               </p>
+               <p>
+                  <hi>Robert Feeld,</hi> an aged man of 93. years and upwards, had a brass Pot taken from him, to the value of 8 <hi>shil.</hi> for not going to the Stee<g ref="char:EOLhyphen"/>ple-house, which is a mile off, although two of his sons were in pri<g ref="char:EOLhyphen"/>son for conscience sake towards God, being all the labouring men in the family, and he himself not of ability to go forth of his own house. And because he could not for conscience sake pay Tythes to one <hi>Wil. Gibson</hi> an Impropriator, he cast him into Goal, and not being able to go nor ride, he caused him to be carried in a Dung Cart, and when he had cast him into prison he took away two horses for the same Tythes, worth <hi>12l.</hi> in that time when he was a prisoner: although the said <hi>Robert Feeld</hi> pays but <hi>11l.</hi> Rent for the Land which he does Farm, being the full value of it, and kept him in prison a Quarter of a year. And many friends in this County were lately fined for Meet<g ref="char:EOLhyphen"/>ing, and had goods taken from them twice the value of the fine. And others for not going to the Steeple-house in like manner.</p>
+            </div>
+            <div type="part">
+               <head>Worcestershire, 10.</head>
+               <p>Two friends imprisoned for meeting to worship God, one of them premunired. Four first apprehended for meeting, then fined for the Ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: One other premunired for having a Meeting at his house, and one of them thr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are premunired, hath had his goods seized on and sold: One fined and imprisoned for wearing his hat in the Court: One other imprisoned for not swearing and one for Tythes,</p>
+               <p>The last day of the 11th Moneth, 1663 six friends were taken at a Meeting in <hi>Worcester</hi> by the Mayors Officers, and had their Coats and Hats taken from them before the Mayor and one Major <hi>Wilde</hi> for 4 <hi>shil.</hi> a piece, which they refused to pay for a moneths forbear<g ref="char:EOLhyphen"/>ance from the Steeple house, as they accounted, when some of them had been in prison 3 quarters of a year, or near it, and it was not full 3 weeks before the time that they were released from their im<g ref="char:EOLhyphen"/>prisonment.</p>
+            </div>
+            <div type="part">
+               <pb n="26" facs="tcp:103496:14"/>
+               <head>Sommersetshire, 55.</head>
+               <p>Twenty friends imprisoned because for conscience-sake, they can<g ref="char:EOLhyphen"/>not pay Tythes, some of them have been in prison a long time. Se<g ref="char:EOLhyphen"/>venteen because they could not swear, had the sentence of premunire past against them last summers Assizes and remain still in prison. 12 fi<g ref="char:EOLhyphen"/>ned 3 pound 6 shillings 8 pence a peice, and to remain prisoners till payment for meeting. One fined six pound thirteen and fourpence for the hat, and to remain prisoner til he pay it One other imprisoned for 4 shillings, for not going to Church as they call it. Two indicted for Meeting, and presented for not Conformity. One imprisoned for Meeting and refusing to swear: One imprisoned for going to Church as they call it, he being excommunicated for not coming there. Many of the aforesaid prisoners are poor men, and are not able to maint<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in themselves in prison, and many of them have poor Families.</p>
+               <p>Devonshire imprisoned 1. Surrey 6. Middlesex 14.</p>
+            </div>
+            <div type="part">
+               <head>Cornwall.</head>
+               <p>
+                  <hi>Loveday Hambly,</hi> having been sued at the Common Law for Tythe, by <hi>Warwick Lord Mohum,</hi> and <hi>Katherine May</hi> impropriators in the <hi>6th.</hi> Moneth, 1663. Witnesses swore far beyond the value and worth of her Corn, the obtained verdicts against her, and in the <hi>9th</hi> Moneth, execution was issued out against her, and one <hi>John Smith</hi> and <hi>Lewis Knapp,</hi> drove away from her 5 Cows, 4 heifers, and one steer for <hi>Ka<g ref="char:EOLhyphen"/>therine May</hi> one of the impropriators, who could prove but <hi>6l. 4s.</hi> co<g ref="char:EOLhyphen"/>ming to her for Tythes denied, which bullocks were worth 35 <hi>pound.</hi>
+               </p>
+               <p>The next day after the aforesaid havock was made, come to <hi>Love<g ref="char:EOLhyphen"/>dayes</hi> three of the Lord <hi>Mohums</hi> servants, who took and drove away 9 oxen, 15 bullocks heifers and steers, and 2 horses, he also could prove but 12 pound some odd money, coming to him at the Assizes, and for some of which Tyth she had been distreined by the former powers, as it doth appear upon record, which oxen bullocks and 2 horses, were worth 50 pound; and about 2 weeks after, some Bailiffs came again, and took from the aforesaid <hi>Loveday,</hi> 2 Mares, and 6 young bullocks more, which were well worth 18 pound, so that the said <hi>Mohums</hi> hath caused to be driven a way from the said <hi>Loveday Hambly</hi> in all goods worth 68 pound, for 12 pound demanded, and <hi>Katherine Mayes</hi> caused to be taken 35 pound, in all 103.</p>
+               <p>Since which grievons spoil made upon her goods, came the Preists Bailiff of the parish of <hi>Austel, Joseph May,</hi> and upon pretence of ha<g ref="char:EOLhyphen"/>ving a writ of Rebellion against the said <hi>Loveday,</hi> came to her house, and broke open 5 doors in a Riotous manner, and when they found
+<pb n="27" facs="tcp:103496:14"/> her, put her upon a poor bad horse, and carried her to <hi>Austel</hi> Town, and then took her from that horse, saying they would fetch another, but their Master <hi>Sam. Hirt,</hi> then undersheriff, being angry with them because they had not carried her to prison on that horse, which might have endangered her life, they came again <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd dragged her along the street in the dirt and mire, and said their Master bid them do it, and one of the Bailiffs fulcht her on the back but she being resolved not to ride that bad horse, they deteined her a prisoner in an Ale-house that night, and the next day carried her to <hi>Bodmyn,</hi> where she remain<g ref="char:EOLhyphen"/>eth now a prisoner. <hi>John Ellis</hi> ever since the second Moneth, 1660. has been kept prisoner, and so stil remaines notwithstanding the priest at whosE suit he is comitted, is since departed the Nation. And in some places the cruelty of the Goalers is very great towards our friends, and in particular in <hi>Mountgomery</hi> in <hi>South-Wales</hi> the Gaoler kept them without water many times, and oftentimes kept back their dyet, and kept them to lye upon the hard boards, thinking thereby to compell them to give him his rates for his beds and victuals, which many of them being poor men, they were not able to reach to pay so much, and so were contented to suffer. And that dealing he thought was not cruel enough; but he kept them lockt up, and though they made known that they had need to go to ease themselves, of the burden that none can bear too long, yet he would not let them out, so that some were constreined to do it in the room with them, and to carry it out when they could get the door open, and also denyed them so much as a <hi>Chamber-pot,</hi> so that they were constreined to make water thorow the window several times. And after all this he forced them out of their beds in the night time, under pretence to keep them close prisoners, when they were close under lock and key before, and lockt them up in another place, and there kept them without fire or candle in as cold a frosty night as came all winter, and there kept them without bread or water, and denied them the food they had of their own; and when one of their friends out of pitty and compassion was carrying them some bread and Cheese, he caused it to be taken away, and oftentimes the Goaler would kick the f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iend, and took away the water which the friend carried to them And they making complaint to the Marshal how cruelly they were used, instead of relief they were worse used, and their food taken away and kept from them, neither permitted fire nor Candle, nor to go forth to do their need but once in 2 days, or when the Goaler would, but were constrained to do it in the Room with them, and would not let them have water, and kept their food from them six days together.</p>
+            </div>
+            <div type="part">
+               <pb n="28" facs="tcp:103496:15"/>
+               <head>Welshpool in Mountgomeryshire, 20th. 9th. <hi>Month,</hi> 1663.</head>
+               <p>First there was three friends taken from their houses, and committed to prison, and there detained for about the space of six weeks, then fined and had their Cattel taken from them, insomuch that one of them had not a Cow left him towards the relief o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his family, and six in all children, he being fined in four pounds, had two Cows taken from him, one of them cost h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m 4 pound 3 sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. 4 pence, both being s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to satisfie the Fine, and not any of the over plus retu<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed, each of them having a wise and small children. And within a few weeks after these three men and eight more men and women, were t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ken from their houses and callings, (nor being t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ken at any Meeting) and brought before Magistrates, and the Oath being tendred to both Husbands and Wives, <hi>&amp;c.</hi> they refusing it were committed to pris<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, and de<g ref="char:EOLhyphen"/>tained prisoners for about the space of one whole year and upward, some of them b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing poor Tradesmen, and six of them being the fathers of 30 chi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dren, some of them having their wives prisoners with them, being limitted and confined to an old open house being occupied for Barning, <hi>&amp;c.</hi> and having not any place for the ma<g ref="char:EOLhyphen"/>k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng of a fire for their outward refreshment, no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> any place for lodging (except for two beds at the most but where the rain falleth in upon them, it being the Winter season, and some of them aged sickly people And they were not accused of any thing save only for not swea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing, which in obedience to the Lord they could not do.</p>
+               <p>Since t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey have been, by reason of the coldness of the prison, and the extream wet and cold having therein no firing place, they are exposed to much sickness, &amp; through the stinks and extream nastiness the <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>llons being over their heads, often casting down and emp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g their Chambar-pots, and sometimes falling it amongst them in the Room, and sometimes upon themselves, meat and Lodgings: Also they are both men, women and Maids all compelled to one Chamber, and one <hi>Edward Evans</hi> is very weak, and most that sees him thinks he will lay down the body.</p>
+               <p>And there hath suffered Imprisonments for refusing to swear, and for meeting together, and refusing to go to the publick Worship, and for keeping a good conscience towards God and man, since the King came into <hi>England,</hi> above <hi>Six Thousand</hi> Persons.</p>
+               <p>And there hath dyed since, in prison, by reason of being kept up close, and other hard usage, <hi>Seventy Eight</hi> Persons.</p>
+               <p>And there remains now in prison above <hi>Six Hundred</hi> Persons. Be<g ref="char:EOLhyphen"/>sides many hundreds are excommunicated, and daily liable to be committed for not going to the publick Worship, and many suffer the loss of their goods upon that Account. These things are laid before you that you may not be ignorant how the Innocent suf<g ref="char:EOLhyphen"/>fer, and have lately suffered both in their persons and Estates, many wives and children being like to be ruined and utterly undone, their husbands and fathers being kept in prison from them, who should work for them to help maintain them; and those that have goods or Cattel, the Priests and others take them away, and makes a prey of them, and which way can it be expected we should pay the King his Taxes and Tribute, when these men are suffered to take away our Estates in this manner.</p>
+            </div>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
